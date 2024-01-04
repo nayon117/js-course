@@ -28,3 +28,15 @@ const l = "45"
 
 // console.log(Number.MAX_VALUE);  to see the higest value we can store
 // console.log(Number.MIN_SAFE_INTEGER); to see the lowest value we can store;
+
+// console.log(1/0);   infinity
+// console.log("abc" * 12);   NAN-Not A Number
+
+// --------------string---------------------------------
+
+// Anything wrapped between quotes is called string
+const str = 'string'
+const str2 = "string"
+const str3 = `string`
+const str4 = String(145)
+// console.log(str, str2, str3, str4);
