@@ -40,3 +40,11 @@ const str2 = "string"
 const str3 = `string`
 const str4 = String(145)
 // console.log(str, str2, str3, str4);
+
+// ---------------boolean-------------------------------
+// if the answer always be either true or false then we can call it boolean
+const b1 = true; 
+const b2 = false;
+const b3 = Boolean(true)
+const b4 = Boolean(false)
+console.log(b3,b4);
