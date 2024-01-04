@@ -55,5 +55,12 @@ const b4 = Boolean(false)
 // A variable without value always store undefined
 // A variable with unknown value can store null;
 
-// var abc;  undefined 
+// var abc;  undefined
 // const xyz = null;   null
+
+// octal and hexadecimal 
+const hex = 0xff;
+console.log(hex);
+
+const oct = 0o756;
+console.log(oct);
