@@ -47,4 +47,13 @@ const b1 = true;
 const b2 = false;
 const b3 = Boolean(true)
 const b4 = Boolean(false)
-console.log(b3,b4);
+// console.log(b3,b4);
+
+// ------------null vs undefined ------------------
+// Null  is a special type used as a absence of an object
+
+// A variable without value always store undefined
+// A variable with unknown value can store null;
+
+// var abc;  undefined 
+// const xyz = null;   null
