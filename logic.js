@@ -10,7 +10,7 @@ const b = 20;
 if (a > b) {
   console.log("A is greater than B");
 }
-if (a < b) {
+else {
   console.log("B is greater than A");
 }
 
@@ -18,6 +18,6 @@ const n = 5;
 if (n % 2 === 0) {
   console.log(n + " is Even number");
 }
-if (n % 2 === 1) {
+else {
   console.log(n + " is odd number");
 }
