@@ -24,3 +24,11 @@ if ( b> a || c > d) {
 // Not opeator
 const check = !(a>b)
 console.log(check);
+
+// Ternary operator
+
+const n = 9;
+const str = ''
+
+const result = n%2===0 ? "EVEN" : "ODD"
+console.log(result);
