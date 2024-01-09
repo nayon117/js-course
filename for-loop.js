@@ -20,5 +20,14 @@ for (let i = 1; i <= 100; i++){
 let sum = 0;
 for (let i = 1; i <= 10; i++){
     sum += i 
-    console.log(sum);
+    // console.log(sum);
+}
+
+// even number addition
+let sum1 = 0;
+for (let i = 1; i <= 10; i++){
+    if (i % 2 === 0) {
+        sum1 += i
+        console.log(sum1 + " + " + i , (sum1+i));
+    }
 }
