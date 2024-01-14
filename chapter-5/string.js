@@ -19,3 +19,12 @@
 // escape notation
 const str = 'This is a \'string\''
 console.log(str);
+
+//  \n - for new line
+//  \t - for creating tab space
+//  \\ - for using backslash in code
+//  \r - for  carriage return
+//  \v - for vertical tab
+//  \b - for backspace
+//  \f - for Form Feed
+
