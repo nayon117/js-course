@@ -3,6 +3,11 @@ while (i < 10) {
     // console.log('Hasibul Hasan Nayon');
     i++;
 }
+let j = 0;
+while (j < 20) {
+    // console.log('Hasibul Hasan Nayon');
+    i++;
+}
 
 let isRunning = true;
 while (isRunning) {
