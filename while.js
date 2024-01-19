@@ -8,6 +8,11 @@ while (j < 20) {
     // console.log('Hasibul Hasan Nayon');
     i++;
 }
+let k = 0;
+while (k < 25) {
+    // console.log('Hasibul Hasan Nayon');
+    i++;
+}
 
 let isRunning = true;
 while (isRunning) {
