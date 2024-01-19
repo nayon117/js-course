@@ -27,6 +27,11 @@ for (let i = 1; i <= 20; i++){
     sum += i 
     // console.log(sum);
 }
+let sum3 = 10;
+for (let i = 1; i <= 20; i++){
+    sum += i 
+    // console.log(sum);
+}
 
 // even number addition
 let sum1 = 0;
