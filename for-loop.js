@@ -9,6 +9,11 @@ for (let i = 1; i <= 100; i++){
         // console.log(i);
     }
 }
+for (let i = 1; i <= 200; i++){
+    if (i % 2 === 1) {
+        // console.log(i);
+    }
+}
 
 // print even number
 for (let i = 1; i <= 100; i++){
