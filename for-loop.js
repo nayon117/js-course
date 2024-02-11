@@ -57,6 +57,11 @@ for (let i = 1; i <= 60; i++){
     sum += i 
     // console.log(sum);
 }
+let sum7 = 60;
+for (let i = 1; i <= 60; i++){
+    sum += i 
+    // console.log(sum);
+}
 
 
 // even number addition
