@@ -66,7 +66,13 @@ for (let i = 1; i <= 60; i++){
 
 // even number addition
 let sum1 = 0;
-for (let i = 1; i <= 10; i++){
+// for (let i = 1; i <= 10; i++){
+//     if (i % 2 === 0) {
+//         sum1 += i
+//         console.log(sum1 + " + " + i , (sum1+i));
+//     }
+// }
+for (let i = 1; i <= 20; i++){
     if (i % 2 === 0) {
         sum1 += i
         console.log(sum1 + " + " + i , (sum1+i));
