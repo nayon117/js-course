@@ -17,3 +17,4 @@ let n = 4.568;
 // console.log(Math.random());
 console.log(Math.round(Math.random() * 50 + 1));
 console.log(Math.round(Math.random() * 10 + 1));
+console.log(Math.round(Math.random() * 100 + 1));
