@@ -19,5 +19,6 @@ console.log(Boolean(undefined));
 console.log(Boolean(0));
 console.log(Boolean(246));
 console.log(Boolean(300));
+console.log(Boolean(300));
 
 // constructors   Number, String, Boolean
