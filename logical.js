@@ -24,6 +24,9 @@ if ( b> a || c > d) {
 // Not opeator
 const check = !(a>b)
 console.log(check);
+// Not opeator
+const check1 = !(a>b)
+console.log(check);
 
 // Ternary operator
 
