@@ -35,3 +35,9 @@ const str = ''
 
 const result = n%2===0 ? "EVEN" : "ODD"
 console.log(result);
+
+const m = 9;
+const str1 = ''
+
+const result1 = n%4===0 ? "EVEN" : "ODD"
+console.log(result);
