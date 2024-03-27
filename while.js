@@ -13,6 +13,11 @@ while (k < 25) {
     // console.log('Hasibul Hasan Nayon');
     i++;
 }
+let f = 0;
+while (f < 50) {
+    // console.log('type 50 times');
+    i++;
+}
 
 let isRunning = true;
 while (isRunning) {
